@@ -78,7 +78,7 @@ Due to **Google Forms embedding and response limits**:
 ![Dashboard](screenshots/index1.png)
 
 ### Signup Page
-![Signup Page](screenshots/signup-page.png)
+![Signup Page](screenshots/signup.png)
 
 ---
 ##🔮 Future Enhancements
