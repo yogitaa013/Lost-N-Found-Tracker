@@ -52,7 +52,7 @@ The project uses **Firebase Authentication** for secure login and **Google Forms
   - Firebase CDN
   - PapaParse (CSV Parsing)
 
---
+---
 
 ## ⚠️ Important Note (Google Forms & Sheets Limitation)
 
@@ -69,7 +69,7 @@ Due to **Google Forms embedding and response limits**:
 ---
 
 ## 📸 Screenshots
-```md
+
 ### Landing Page
 ![Landing Page](screenshots/landing.png)
 
@@ -80,7 +80,8 @@ Due to **Google Forms embedding and response limits**:
 ### Signup Page
 ![Signup Page](screenshots/signup-page.png)
 
---🔮 Future Enhancements
+---
+##🔮 Future Enhancements
 
 - Replace Google Forms with Firebase Firestore
 - Advanced item matching using keywords
